@@ -1,0 +1,2 @@
+tapbot
+-DCATKIN_DEVEL_PREFIX=/home/chris/Desktop/tap_ws/auto_docking/ROS/ws/devel -DCMAKE_INSTALL_PREFIX=/home/chris/Desktop/tap_ws/auto_docking/ROS/ws/install -G Unix Makefiles
